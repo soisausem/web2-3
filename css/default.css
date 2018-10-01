@@ -6,6 +6,7 @@ body{
 }
 h1{
   font-size: 1.75em;
+  font-weight: 300;
   color: #ea3049;
   border: #ff3366 1px dotted;
   border-left: #ff3366 10px solid;
@@ -18,7 +19,7 @@ h2{
 }
 #hamuko{
   color: #3a4861;
-  border: #3a4861 2px dotted;
+  text-decoration: underline;
 }
 .hamu{
   color: #edbbd4;

@@ -7,6 +7,10 @@ body{
 h1{
   font-size: 1.75em;
   color: #ea3049;
+  border: #ff3366 1pix dotted;
+  border-left: #ff3366 10px solid;
+  margin-bottom: 3;
+  padding: 5px 20px;
 }
 a{
   color: #df4839;

@@ -8,3 +8,10 @@ h1{
   font-size: 1.75em;
   color: #ea3049;
 }
+a{
+  color: #df4839;
+  background-color: #ea3049;
+}
+a:hover{
+  color: #ff705b;
+}

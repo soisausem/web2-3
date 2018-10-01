@@ -20,6 +20,15 @@ h2{
   color: #3a4861;
   border: #3a4861 2px dotted;
 }
+.hamu{
+  color: #edbbd4;
+}
+.top{
+  font-size: 1.25em;
+}
+.on{
+  font-size: 80%;
+}
 a{
   color: #3a4849;
   background-color: #ea3049;

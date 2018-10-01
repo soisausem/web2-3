@@ -5,12 +5,19 @@ body{
   background-repeat: repeat-y;
 }
 h1{
-  font-size: 1.25em;
+  font-size: 1.75em;
   color: #ea3049;
-  border: #ff3366 1pix dotted;
+  border: #ff3366 1px dotted;
   border-left: #ff3366 10px solid;
   margin-bottom: 3;
   padding: 5px 20px;
+}
+h2{
+  font-size: 1.25em;
+  color: #ea3049;
+}
+#hamuko{
+  color: #3a4861;
 }
 a{
   color: #df4839;

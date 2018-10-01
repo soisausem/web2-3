@@ -18,11 +18,12 @@ h2{
 }
 #hamuko{
   color: #3a4861;
+  border: #3a4861 2px dotted;
 }
 a{
-  color: #df4839;
+  color: #3a4849;
   background-color: #ea3049;
 }
 a:hover{
-  color: #ff705b;
+  color: #fbd246;
 }

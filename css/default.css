@@ -21,6 +21,11 @@ h2{
   color: #3a4861;
   text-decoration: underline;
 }
+li{
+  font-size: 0.8em;
+  background-color: #df828a;
+  line-height: 1.25em;
+}
 .hamu{
   color: #edbbd4;
 }
